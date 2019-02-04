@@ -2,7 +2,7 @@ from tkinter import *
 
 #Create Window
 window = Tk()
-window.title("Teste - Tese Maikel Menke")
+window.title("Teste - Tese #######")
 
 #geometry of window
 window.geometry('1024x720')
